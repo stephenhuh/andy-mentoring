@@ -10,6 +10,13 @@ By Iteration 3, we should know what type of application we would like to build. 
 What this will allow you to do is build real things that you can add to your portfolio and resume while honing your algorithmic skills so that you can actually get the interviews, and then crush them.
 
 
+In terms of algorithmic development, we will move VERY slowly but purposefully. This is so that it continues to stick with you as you still have a good amount of time until interviews.
+
+
+
+
+
+
 
 
 

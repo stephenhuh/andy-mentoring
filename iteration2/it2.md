@@ -22,9 +22,9 @@ Button should be centered into the middle of the page.
 #Supplement
 Now read this:
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/#singletonpatternjavascript
-Read on the following patterns:
-1. Constructor
-2. Singleton
+Read on the following patterns: 
+1. Constructor  
+2. Singleton  
 
 #Algorithms
 Solve 1A, 4A, 71A on Codeforces. They should be quite easy. This will get you acquainted with writing JS for Codeforces. Ping me if you need help.

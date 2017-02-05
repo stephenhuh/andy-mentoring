@@ -1,0 +1,30 @@
+For Internal (one page) add <style> instead.
+Use the <script> element to attach js files to webpages (e.g. <script type="text/javascript" src="scripts.js"></script> )
+
+
+What is an API?
+Application Programming Interface. Helps software programming by specifying how software components should
+interact. Has all the basic blocks, routines, protocols, tools available so the programmer can easily
+put them together and make a working software application. (e.g. google maps api 
+
+What is a SPA (Single page application)?
+Web apps that load a single HTML page and dynamically update that page as the user interacts with the app.
+
+What is a callback in Javascript? Why are they so fundamental to JS?
+A function that is passed to another function. Since functions are first class citizens, we can nest them inside each other
+and use the results as variables for other functions. Not executed immediately, only passing the function definition. Callback
+is executed in the body of the containing function later on. Essential for asynchronous programming by allowing the CPU to do other stuff 
+instead of waiting idly until it gets a reply/result from the function. 
+
+What is REST?
+Representational state transfer. A system/way of "providing interoperability between computer systems on the internet."
+So it's like a defined set of rules for retrieving requests, and the result gives you the next resource. (traversing through links)
+
+What is JSON?
+JavaScript Object Notation. Text syntax for storing and exchanging data easily and clearly. Only text can be sent when exchanging data
+between browser and server, and we can use JSON to convert any JavaScript object for simple parsing and transferring.
+
+What is the separation of presentation and content? How does it apply to HTML/CSS/JS?
+An Idiom/philosophy to basically make a distinction between the actual meaning of the document and the presentation
+of the meaning to readers. JS contains the semantics, logic, info, content, data, etc., CSS provides the aesthetic presentation, design, 
+style, graphics, etc., and HTML joins the two together. 

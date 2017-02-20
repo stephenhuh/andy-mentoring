@@ -1,0 +1,62 @@
+{
+  "chicken breast": {
+    "calories": "165",
+    "protein": "31g",
+    "fats": "3.6g",
+    "carbs": "0g"
+  },
+  "egg": {
+    "calories": "80",
+    "protein": "6g",
+    "fats": "5g",
+    "carbs": "0.6g"
+  },
+  "broccoli 1cup": {
+    "calories": "30.9",
+    "protein": "2.6g",
+    "fats": "0.3g",
+    "carbs": "6g"
+  },
+  "Big Mac": {
+    "calories": "590",
+    "protein": "24g",
+    "fats": "34g",
+    "carbs": "47g"
+  },
+  "Snickers": {
+    "calories": "213",
+    "protein": "3.9g",
+    "fats": "11.6g",
+    "carbs": "24.7g"
+  },
+  "Plain Bagel": {
+    "calories": "285",
+    "protein": "11g",
+    "fats": "1.7g",
+    "carbs": "56.5g"
+  },
+  "rice": {
+    "calories": "152",
+    "protein": "8g",
+    "fats": "3g",
+    "carbs": "78g"
+  },
+  "beans": {
+    "calories": "70",
+    "protein": "7g",
+    "fats": "2g",
+    "carbs": "22.5g"
+  },
+  "10pc chicken nugget McD": {
+    "calories": "470",
+    "protein": "22g",
+    "fats": "30g",
+    "carbs": "30g"
+  },
+  "chocolate chip clif bar": {
+    "calories": "240",
+    "protein": "10g",
+    "fats": "5g",
+    "carbs": "44g"
+  }
+}

@@ -1,0 +1,31 @@
+Questions
+
+Since JS is asynchronous, any of the functions/lines can be initiated anytime. That’s why if you have setTimeout(alert, 1000)
+ and then console.log(“something”) it’ll still console.log something before it runs the alert function. But then if we have
+ 2 console.log functions will it always come out the first and then second? Will it ever switch because of the asynchronous property?
+
+What exactly are module patterns? Are they same as closures? Anonymous immediately executable functions?
+
+Maximum sub array problem, isnt the crossing midpoint function still called recursively each time we call the original function?
+ Cuz the array is halved and we still see the crossing midpoint of that half i think…
+
+For max sub array question for the crossing midpoint helper, needed it to go from mid-1 to 0, and mid to high, rather than mid to 0, and mid +1 to high.
+ This yielded different results with the former being correct. Does the base case always have to be slightly smaller like the left side of the divide needs to be smaller?
+ Esp. weird since I was looking at the CLRS algo for reference and they had mid to 0, and mid + 1 to high.
+
+
+
+Feedback
+
+Got a bit stuck on the project, but it's fun experimenting with the code to see what comes out so this is cool.
+I just don't have a lot of knowledge on networks in general so if you have more resources on server client relationships stuff like that,
+would be bueno. Oh like when you were asking me what's exactly going on when you type something in search bar in grubhub, and when you
+press enter, etc. I'd appreciate another recap lesson on that.
+
+The textbook was actually surprisingly easy to read along so I'm pretty hyped, but I can't say how much of the information I really
+digested and understood thoroughly. I feel like I need a bit more time to fully take in the readings, but more exposure in general
+might be better so I'll keep powering thru. Youtube algorithms guy is awesome, very nice resource haha.
+
+This took significantly more time than the previous iterations, but I wanna see if I can continue to keep up with this pace. If you can also
+give your own answers to the questions you assign (both concepts and coding), that would be awesome, at least for the parts you think are really important.
+Tanks senpai!

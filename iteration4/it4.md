@@ -26,6 +26,7 @@ You do not have to complete all sections or go through this that rigorously. It'
 
 ##Project-Specific
 Now that you have the given foods. Figure out how to display all data in a way that fits MFP when someone 
+
 The use case is as follows:
 As a fitness enthusiast, I log my macros. Unfortunately, I have only one meal left and need equal to or more than 20g of protein. I want to do a quick search for all foods that have more than 20g of protein per serving. 
 When you are finished or come across a problem PM me.
@@ -34,6 +35,7 @@ read... https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulep
 Rewrite your code in the module pattern.
 
 Start building out more of the platform if you have ANY extra time or are just bored.
+Have a prepared list of questions for me by Thursday.
 
 #ETC
 Find some beauty in algos.

@@ -13,6 +13,7 @@ But make sure you are using the divide and conquer approach. Look for the base c
 6. Read 15.1 slowly but surely.
 Make sure you understand the term "optimal substructure" -- definitions exist on pg 425 of 16.2 and 362 of 15.1
 7. Pros and cons of each approach -- and when to use.
+8. Maximum subarray problem memorization.
 
 As explained on Sunday, you want to view these problems as problems. 
 

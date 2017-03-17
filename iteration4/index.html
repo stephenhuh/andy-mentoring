@@ -1,0 +1,45 @@
+<!doctype html>
+<html class="no-js" lang="">
+    <head>
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+      <script type="text/javascript" src="script.js"></script>
+      <link rel="stylesheet" type="text/css" href="style.css">
+      <title> Gains </title>
+    </head>
+    <body>
+        <center> <h1> MyFitnessBud </h1> </center>
+      <center>
+      <button class="button button2" onclick="getallfoods()">Get foods</button>
+
+      <select name="more or less" size="1" id="inequality">
+        <option value="more than">More than</option>
+        <option value="less than">Less than</option>
+      </select>
+      <input type="search" id="mySearch" placeholder="Enter Value Here..">
+      <select name="Macros" size="1" id="macros">
+        <option value="calories">calories</option>
+        <option value="proteins">proteins</option>
+        <option value="fats">fats</option>
+        <option value="carbs">carbs</option>
+      </select>
+
+      <button class="buttona button2" onclick="search()">PER SERVING</button>
+
+        <div>
+        <p> Food Info </p>
+        <p id="proteincaption"> </p>
+        <p id="protein20"></p>
+
+        <div>
+          <input type="search" id="foodname" onkeypress="handle(event)" placeholder="Find food..">
+        </div>
+        <p id="searchednameresult"></p>
+
+            <br></br><br></br><br></br><br></br><br></br>
+        <p id="allfoods"></p>
+        </div>
+      </center>
+    </body>
+
+
+</html>

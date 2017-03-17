@@ -1,0 +1,17 @@
+{
+  "name": "iteration3",
+  "version": "1.0.0",
+  "description": "button for foods",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "less-middleware": "^2.2.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}

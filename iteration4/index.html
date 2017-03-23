@@ -34,11 +34,32 @@
           <input type="search" id="foodname" onkeypress="handle(event)" placeholder="Find food..">
         </div>
         <p id="searchednameresult"></p>
+        <table style = "width:30%" id="table">
+          <tr>
+            <td> calories </td>
+            <td id ="searchedcalories"> </td>
+          </tr>
+          <tr>
+            <td> carbs </td>
+            <td id ="searchedcarbs"> </td>
+          </tr>
+          <tr>
+            <td> fats </td>
+            <td id ="searchedfats"> </td>
+          </tr>
+          <tr>
+            <td> proteins </td>
+            <td id ="searchedproteins"> </td>
+          </tr>
+        </table>
+        <table id = "table1"> </table>
 
             <br></br><br></br><br></br><br></br><br></br>
         <p id="allfoods"></p>
         </div>
       </center>
+      <button class="buttona button2" onclick="hit_usda_api()"> USDA foods</button>
+      <p id="usdafoods"></p>
     </body>
 
 
